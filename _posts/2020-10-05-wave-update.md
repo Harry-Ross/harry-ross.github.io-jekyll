@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Project Wave
-tags: [projects, code, wave]
+tags: [projects, code, wave, nodejs, react, mysql]
 ---
 
 # Intro
