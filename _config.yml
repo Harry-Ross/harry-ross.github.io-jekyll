@@ -38,7 +38,7 @@ round-avatar: true
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
   email: "hazross@hotmail.com"
-  github: "Harry-Eoss"
+  github: "Harry-Ross"
   twitter: "harryrossdev"
   rss: true
 #  reddit: yourname
