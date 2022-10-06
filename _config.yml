@@ -14,8 +14,7 @@ author: Harry Ross
 navbar-links:
   About Me: "aboutme"
   Projects:
-    - A project: "project"
-    - A second project: "project2"
+    - Wave: "projects/wave"
 
 # --- Logo --- #
 
@@ -65,7 +64,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "harry-ross-github.io"
+url-pretty: "harry.is-a.dev"
 
 # Create a "tags" index page and make tags on each post clickable
 link-tags: true
